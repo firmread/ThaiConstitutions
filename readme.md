@@ -2,7 +2,7 @@
 ## manifesto
 This repo's goal is to retrieve every single version of The Constitution of the Kingdom of Thailand, both in Thai and in English, into an easy-to-access digital form. 
 
-### resource
+## resource
 ####[Thai government's constitution download page](http://library2.parliament.go.th/giventake/thaicons.html)
 
 * [รัฐธรรมนูญ ฉบับที่ 19](http://library2.parliament.go.th/giventake/content_thcons/19cons2557.pdf)  
