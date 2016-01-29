@@ -5,6 +5,11 @@ This repo's goal is to retrieve every single version of The Constitution of the 
 ## resource
 ####[Thai government's constitution download page](http://library2.parliament.go.th/giventake/thaicons.html)
 
+* ร่างรัฐธรรมนูญ ฉบับที่ 20
+	* [ร่างรัฐธรรมนูญ 2558 (ฉบับปฎิรูป) วันที่ 17/04/58](http://www.bangkokvoice.com/wp-content/uploads/2015/04/ร่างรัฐธรรมนูญ-2558-17-04-58.pdf)
+	* [ร่างรัฐธรรมนูญแห่งราชอาณาจักรไทย ฉบับเสนอสภาปฏิรูปแห่งชาติ เพื่อลงมติ (ฉบับประชามติ) 22/08/58](http://www.bangkokvoice.com/wp-content/uploads/2015/08/ร่างรัฐธรรมนูญแห่งราชอาณาจักรไทย-ฉบับเสนอสภาปฏิรูปแห่งชาติ-เพื่อลงมติ-22-ส.ค.-2558.pdf)
+	* [ร่างรัฐธรรมนูญ 2559 (ฉบับปราบโกง/ปฏิรูปประเทศ) วันที่ 29/01/59](http://www.parliament.go.th/ewtcommittee/ewt/draftconstitution2/download/article/article_20160129132217.pdf)
+
 * [รัฐธรรมนูญ ฉบับที่ 19](http://library2.parliament.go.th/giventake/content_thcons/19cons2557.pdf)  
 รัฐธรรมนูญแห่งราชอาณาจักรไทย (ฉบับชั่วคราว) พุทธศักราช 2557
 
